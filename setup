@@ -1,0 +1,3 @@
+npm install --save-dev tailwindcss postcss autoprefixer cssnano --verbose
+
+npx tailwindcss init -p
