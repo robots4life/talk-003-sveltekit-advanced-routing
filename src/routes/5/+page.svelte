@@ -1,4 +1,4 @@
-<h1 class="pt-20 font-bold">Route Parameters</h1>
+<h1 class="pt-20 font-bold">What Are Route Parameters USed For ?</h1>
 
 <a
 	class="block text-3xl"
