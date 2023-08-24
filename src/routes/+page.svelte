@@ -14,6 +14,14 @@
 	>https://github.com/robots4life/talk-003-sveltekit-advanced-routing</a
 >
 
+<a
+	class="pt-4 block text-3xl"
+	target="_blank"
+	rel="noreferrer"
+	href="https://github.com/robots4life/talk-003-demo-app"
+	>https://github.com/robots4life/talk-003-demo-app</a
+>
+
 <h3>
 	Talk 003 given at
 
