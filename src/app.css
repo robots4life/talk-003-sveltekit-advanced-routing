@@ -25,20 +25,29 @@ html {
 
 	/* type sizes */
 	h1 {
-		@apply text-5xl leading-[1.2];
+		@apply text-6xl leading-[1.2];
 	}
 	h2 {
-		@apply text-4xl leading-[1.3];
+		@apply text-5xl leading-[1.3];
 	}
 	h3 {
-		@apply text-3xl leading-[1.4];
+		@apply text-4xl leading-[1.4];
 	}
-	p {
-		@apply text-2xl leading-[1.5];
+	p,
+	ol,
+	ul,
+	li,
+	pre {
+		@apply text-3xl leading-[1.6];
 	}
-	code,
-	a {
-		@apply text-2xl break-all;
+
+	pre {
+		@apply italic;
+	}
+
+	a,
+	code {
+		@apply text-3xl break-all;
 	}
 
 	/* type spacing */
@@ -51,9 +60,9 @@ html {
 	h3 {
 		@apply py-4;
 	}
-	p,
+	a,
 	code,
-	a {
+	p {
 		@apply py-1;
 	}
 }
